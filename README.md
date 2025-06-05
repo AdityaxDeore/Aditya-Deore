@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm John 👋</h1>
+<h1 align="center">Hi there, I'm Aditya 👋</h1>
 <div align="center">
 <p>Hi, I'm Aditya Deore — a driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune. I thrive on building real-world tech with clean architecture, scalable design, and smart execution.</p>
 
