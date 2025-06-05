@@ -170,78 +170,11 @@
 ---
 
 <p align="center"><i>“Code what matters. Build what lasts. Lead like it’s your legacy.”</i></p>
-#--------------------------------------------
-
-
-
-
-
-
-
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaDeore&show_icons=true&theme=radical&hide_border=true" width="400px"/>
-</p>
-
----
-
-<div align="center">
-
-<h3>💻 Tech Stack</h3>
-
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td>
-<td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat&logo=tailwindcss&logoColor=white"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>🧠 Current Focus</h3>
-
-<p>
-• Building scalable full-stack applications with integrated UPI payments<br/>
-• Developing ML solutions using Python + TensorFlow<br/>
-• Diving into systems-level logic with Prolog, Lisp & C
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>👑 Leadership & Contributions</h3>
-
-<p>
-• Team Lead @ Wipro DICE Internship<br/>
-• Volunteer @ Hackathons, IIT-P Tech Fests, Delhi Art Events<br/>
-• Organizer @ GDG Events + Campus Tech Circles
-</p>
-
-</div>
-
----
-
-<div align="center">
 
 <h3>🔗 Let's Connect</h3>
 
-<a href="mailto:adityadeore.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityadeore.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/AdityaDeore"><img src="https://img.shields.io/badge/GitHub-AdityaDeore-black?style=flat-square&logo=github" /></a>
+<a href="mailto:adityadeorework@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityadeore.dev@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AdityaxDeore"><img src="https://img.shields.io/badge/GitHub-AdityaDeore-black?style=flat-square&logo=github" /></a>
 
 </div>
 
