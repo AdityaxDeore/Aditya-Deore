@@ -1,49 +1,35 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
+<h1 align="center">Hi there, I'm John 👋</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<p>Hi, I'm Aditya Deore — a driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune. I thrive on building real-world tech with clean architecture, scalable design, and smart execution.</p>
+
+<p>I’ve led teams (Wipro DICE), volunteered at national-level events (IIT, Delhi), and helped organize hackathons, all while staying grounded and collaborative. My core strength? Getting things done while respecting every voice in the room.</p>
+
+<p>🚀 Currently diving deep into:</p>
+<ul><li>Full Stack Web Dev (React + Tailwind, Node.js + Express)</li><li>UPI Payments Integration (GPay, PhonePe, Paytm)</li><li>Python + TensorFlow (AI/ML foundations)</li><li>Java, C, Prolog, Lisp (for academic and logical depth)</li></ul>
+<p>Outside of code, I contribute, compete, and connect — always learning, always building.</p>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaxDeore&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/aditya-deore-3a725a263" target="_blank">Aditya Deore</a></p>
