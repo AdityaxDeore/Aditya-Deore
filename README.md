@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 I'm working on an estimate SaaS using NextJS<br>👯 I would love to collaborate with a startup team<br>💬 Feel free to ask me for more information about my projects<br>⚡ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.
+🔭Hi, I'm Aditya Deore — a driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune. I thrive on building real-world tech with clean architecture, scalable design, and smart execution.
 
+I’ve led teams (Wipro DICE), volunteered at national-level events (IIT-P, Delhi), and helped organize hackathons, all while staying grounded and collaborative. My core strength? Getting things done while respecting every voice in the room.
+
+🚀 Currently diving deep into:
+- Full Stack Web Dev (React + Tailwind, Node.js + Express)
+- UPI Payments Integration (GPay, PhonePe, Paytm)
+- Python + TensorFlow (AI/ML foundations)
+- Java, C, Prolog, Lisp (for academic and logical depth)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/aditya-deore-3a725a263/)  
@@ -28,10 +35,6 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=camillevingere&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=camillevingere&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=camillevingere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c,c%2B%2B,makefile)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=camillevingere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
