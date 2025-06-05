@@ -4,29 +4,33 @@
   <img src="https://img.shields.io/badge/B.Tech-IT-green?style=flat-square&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/PCCOE-Pune-orange?style=flat-square&logo=google-scholar" />
 </div>
-<p align="center">
-  A driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune.<br>
+<div align="center" style="font-size: 18px; line-height: 1.8; font-weight: 500;">
+
+<p>
+  A driven <b>full-stack developer</b> and <b>2nd-year B.Tech IT</b> student at <b>PCCOE, Pune</b>.<br>
   I thrive on building real-world tech with clean architecture, scalable design, and smart execution.
 </p>
 
-<p align="center">
-  I’ve led teams (Wipro DICE), volunteered at national-level events (IIT-P, Delhi), and helped organize hackathons,<br>
-  all while staying grounded and collaborative. My core strength? Getting things done while respecting every voice in the room.
+<p>
+  I’ve led teams (<b>Wipro DICE</b>), volunteered at national-level events (<b>IIT-P</b>, <b>Delhi</b>), and helped organize hackathons,<br>
+  all while staying grounded and collaborative. My core strength? <i>Getting things done while respecting every voice in the room.</i>
 </p>
 
-<p align="center"><b>🚀 Currently diving deep into:</b></p>
+<p><b>🚀 Currently diving deep into:</b></p>
 
-<p align="center">
+<p>
   • Full Stack Web Dev (React + Tailwind, Node.js + Express)<br>
   • UPI Payments Integration (GPay, PhonePe, Paytm)<br>
   • Python + TensorFlow (AI/ML foundations)<br>
   • Java, C, Prolog, Lisp (for academic and logical depth)
 </p>
 
-
-<p align="center">
-  Outside of code, I contribute, compete, and connect — always learning, always building.
+<p>
+  Outside of code, I contribute, compete, and connect — <b>always learning, always building.</b>
 </p>
+
+</div>
+
 
 
 
