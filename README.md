@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Aditya Deore</h1>
-
+<h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/B.Tech-IT-green?style=flat-square&logo=graduation-cap" />
+  <img src="https://img.shields.io/badge/PCCOE-Pune-orange?style=flat-square&logo=google-scholar" />
+</div>
 <p align="center">
   A driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune.<br>
   I thrive on building real-world tech with clean architecture, scalable design, and smart execution.
@@ -171,13 +175,9 @@
 
 
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/B.Tech-IT-green?style=flat-square&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/PCCOE-Pune-orange?style=flat-square&logo=google-scholar" />
-</div>
+
+
 
 <br/>
 
