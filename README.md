@@ -19,13 +19,6 @@
   • Java, C, Prolog, Lisp (for academic and logical depth)
 </p>
 
-<p align="center"><b>🧠 I believe in:</b></p>
-
-<p align="center">
-  • Innovation over imitation<br>
-  • Honest leadership<br>
-  • Blending code with creativity
-</p>
 
 <p align="center">
   Outside of code, I contribute, compete, and connect — always learning, always building.
