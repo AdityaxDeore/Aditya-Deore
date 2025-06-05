@@ -29,6 +29,11 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">&nbsp;</div>
 <div align="center">
+	<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">
+
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
