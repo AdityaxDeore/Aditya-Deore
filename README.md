@@ -1,5 +1,7 @@
+<h1 align="center">Hi, I'm Aditya Deore</h1>
+
 <p align="center">
-  <b>Hi, I'm Aditya Deore</b> — a driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune.<br>
+  A driven full-stack developer and 2nd-year B.Tech IT student at PCCOE, Pune.<br>
   I thrive on building real-world tech with clean architecture, scalable design, and smart execution.
 </p>
 
@@ -8,16 +10,18 @@
   all while staying grounded and collaborative. My core strength? Getting things done while respecting every voice in the room.
 </p>
 
+<p align="center"><b>🚀 Currently diving deep into:</b></p>
+
 <p align="center">
-  🚀 <b>Currently diving deep into:</b><br>
   • Full Stack Web Dev (React + Tailwind, Node.js + Express)<br>
   • UPI Payments Integration (GPay, PhonePe, Paytm)<br>
   • Python + TensorFlow (AI/ML foundations)<br>
   • Java, C, Prolog, Lisp (for academic and logical depth)
 </p>
 
+<p align="center"><b>🧠 I believe in:</b></p>
+
 <p align="center">
-  🧠 <b>I believe in:</b><br>
   • Innovation over imitation<br>
   • Honest leadership<br>
   • Blending code with creativity
@@ -26,6 +30,7 @@
 <p align="center">
   Outside of code, I contribute, compete, and connect — always learning, always building.
 </p>
+
 
 
 
